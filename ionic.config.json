@@ -1,0 +1,8 @@
+{
+  "name": "mobile-vicon",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "1f4d3d08"
+}
